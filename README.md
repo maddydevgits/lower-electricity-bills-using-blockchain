@@ -12,6 +12,7 @@ Lower Electricity Bills using Blockchain
 # Packages
 1. npm install -g truffle
 2. pip install web3
+3. pip install streamlit
 
 # Process
 1. Install Softwares
